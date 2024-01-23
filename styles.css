@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+table {
+  align-items: center;
+  color: aqua;
+  align-self: center;
+}
